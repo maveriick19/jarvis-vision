@@ -1,0 +1,18 @@
+SpeechRecognition
+pyttsx3
+opencv-python
+mediapipe
+google-generativeai
+protobuf<3.20
+setuptools==65.5.0
+pyaudio              # For microphone input (if not working by default)
+psutil               # For battery status feature
+requests             # If using weather or other API
+pip install elevenlabs # For text-to-speech with elevenlabs
+# Instructions to set up the environment:
+#        python -m venv jarvis_env    to create a virtual environment named jarvis_env  
+
+
+#        jarvis_env\Scripts\Activate.ps1    in powershell to activate virtual environment   
+#        pip install -r requirements.txt    to install all required libraries
+#        python main.py    to run the program
