@@ -37,11 +37,5 @@
 
 ---
 
-## 🚀 Installation  
 
-Clone the repository and install dependencies:
 
-```bash
-git clone https://github.com/sumitverma0/JARVIS-Vision.git
-cd JARVIS-Vision
-pip install -r requirements.txt
